@@ -39,7 +39,7 @@ A professional voice cloning and speech synthesis platform. Users upload a short
 2. **Generate** — pick a voice → type text → export WAV/MP3
 3. **Design** — describe a voice → preview candidates → save best
 
-**Target users:** Podcasters, game/animation studios, localization teams, developers.
+**Target users:** Podcasters, game/animation studios, localization teams, developers
 
 ---
 
