@@ -2,7 +2,7 @@
 
 **Projects:** `index.html` (Utter) · `vocra.html` (Vocra)
 **Category:** Voice-first Web Applications
-**Status:** Design-complete · Pre-launch
+**Status:** Design-complete · Pre-launch.
 
 ---
 
