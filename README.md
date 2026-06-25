@@ -25,7 +25,7 @@ A privacy-first, offline-capable voice journaling and note-taking app. Users hit
 3. Review auto-extracted to-dos
 4. Export or sync (Pro)
 
-**Target users:** Knowledge workers, journalers, people who think better out loud.
+**Target users:** Knowledge workers, journalers, people who think better out loud
 
 ---
 
