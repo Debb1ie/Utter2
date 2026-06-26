@@ -17,7 +17,7 @@ This repository contains two companion voice applications sharing a unified desi
 ### Utter (`index.html`)
 > *"Speak. Capture. Remember."*
 
-A privacy-first, offline-capable voice journaling and note-taking app. Users hit a mic button, speak freely, and Utter transcribes, categorizes, and structures their words into notes, to-dos, or journal entries — instantly. AI summaries are available on the Pro tier...
+A privacy-first, offline-capable voice journaling and note-taking app. Users hit a mic button, speak freely, and Utter transcribes, categorizes, and structures their words into notes, to-dos, or journal entries — instantly. AI summaries are available on the Pro tier
 
 **Core user flows:**
 1. Tap mic → speak → get structured note
