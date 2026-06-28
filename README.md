@@ -8,7 +8,7 @@
 
 ## Overview
 
-This repository contains two companion voice applications sharing a unified design language: **Utter**, a personal voice-to-notes recorder, and **Vocra**, an AI voice cloning and speech synthesis tool. Together they form a cohesive voice product suite built around a stripped-back, editorial aesthetic...
+This repository contains two companion voice applications sharing a unified design language: **Utter**, a personal voice-to-notes recorder, and **Vocra**, an AI voice cloning and speech synthesis tool. Together they form a cohesive voice product suite built around a stripped-back, editorial aesthetic.
 
 ---
 
